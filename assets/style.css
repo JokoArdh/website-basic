@@ -1,0 +1,13 @@
+#row1{
+	width: 400px;
+	margin-top: 20px;
+}
+.form-group{
+	text-align: left;
+}
+.checkbox{
+	text-align: left;
+}
+form{
+	-webkit-box-shadow: 0px 0px 30px #788;
+}
